@@ -1,8 +1,0 @@
-.vscode/
-
-target/
-
-frontend/node_modules/
-frontend/public/build/
-
-.DS_Store
